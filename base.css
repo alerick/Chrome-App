@@ -1,0 +1,15 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+	margin: 0 auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}

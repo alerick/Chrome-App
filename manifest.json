@@ -1,0 +1,14 @@
+{
+  "name": "Muserpol",
+  "description": "Plataforma Virtual - Mutual de Servicios al Policía",
+  "version": "1.0",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": ["webview"],
+  "minimum_chrome_version": "28",
+  "icons": { "16": "muserpol-16.png", "128": "muserpol-128.png" }
+}
